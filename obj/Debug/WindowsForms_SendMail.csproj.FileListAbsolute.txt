@@ -1,0 +1,10 @@
+C:\Users\sol\source\repos\WindowsForms_SendMail\WindowsForms_SendMail\bin\Debug\WindowsForms_SendMail.exe.config
+C:\Users\sol\source\repos\WindowsForms_SendMail\WindowsForms_SendMail\bin\Debug\WindowsForms_SendMail.exe
+C:\Users\sol\source\repos\WindowsForms_SendMail\WindowsForms_SendMail\bin\Debug\WindowsForms_SendMail.pdb
+C:\Users\sol\source\repos\WindowsForms_SendMail\WindowsForms_SendMail\obj\Debug\WindowsForms_SendMail.csprojAssemblyReference.cache
+C:\Users\sol\source\repos\WindowsForms_SendMail\WindowsForms_SendMail\obj\Debug\WindowsForms_SendMail.Form1.resources
+C:\Users\sol\source\repos\WindowsForms_SendMail\WindowsForms_SendMail\obj\Debug\WindowsForms_SendMail.Properties.Resources.resources
+C:\Users\sol\source\repos\WindowsForms_SendMail\WindowsForms_SendMail\obj\Debug\WindowsForms_SendMail.csproj.GenerateResource.cache
+C:\Users\sol\source\repos\WindowsForms_SendMail\WindowsForms_SendMail\obj\Debug\WindowsForms_SendMail.csproj.CoreCompileInputs.cache
+C:\Users\sol\source\repos\WindowsForms_SendMail\WindowsForms_SendMail\obj\Debug\WindowsForms_SendMail.exe
+C:\Users\sol\source\repos\WindowsForms_SendMail\WindowsForms_SendMail\obj\Debug\WindowsForms_SendMail.pdb
